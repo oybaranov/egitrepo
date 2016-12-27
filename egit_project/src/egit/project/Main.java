@@ -7,7 +7,7 @@ public class Main {
 		System.out.println("Hello Olga!!!");
 
 
-		System.out.println("Hello Yegor!!!");
+		System.out.println("Hello Oleg!!!");
 //comment
 
 	}
